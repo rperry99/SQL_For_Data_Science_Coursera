@@ -10,4 +10,5 @@
 
 ## Chinook Database
 You can find the database information [here](https://www.sqlitetutorial.net/sqlite-sample-database/).
+Below is the schema for the Chinook Database.
 ![](ChinookDatabaseSchema.png)
