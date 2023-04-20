@@ -7,3 +7,7 @@
 
 ## Final Exam
 [Data Scientist Roleplay](Data_Scienctist_Roleplay.md)
+
+## Chinook Database
+You can find the database information [here](https://www.sqlitetutorial.net/sqlite-sample-database/).
+![](ChinookDatabaseSchema.png)
